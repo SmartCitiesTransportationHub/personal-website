@@ -1,0 +1,6 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>My project · Starter demonstration</title>
+<style>*{box-sizing:border-box}body{font:16px/1.7 "Segoe UI",Arial,sans-serif;background:#f1f4ea;color:#173d34;margin:0;padding:30px}main{max-width:650px;margin:auto}h1{line-height:1.2}label{display:block}input{width:100%;accent-color:#173d34;margin:20px 0}output{font-size:40px;display:block}small{color:#52665b}input:focus-visible{outline:3px solid #286c79;outline-offset:4px}</style></head>
+<body><main><small>STARTER DEMONSTRATION / REPLACE WITH YOUR OWN PROJECT</small><h1>My interactive project</h1><p>This is a minimal working example. Change the HTML, CSS and JavaScript to build your own demonstration.</p><label for="input">Input value</label><input id="input" type="range" min="0" max="100" value="50"><output id="result" for="input" aria-live="polite">100</output><p>Illustrative calculation: result = input × 2.</p></main><script>const input=document.getElementById('input'),result=document.getElementById('result');input.addEventListener('input',()=>{result.textContent=Number(input.value)*2;});</script></body>
+</html>
