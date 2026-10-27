@@ -7,7 +7,7 @@ window.PORTFOLIO = {
     "role": "PhD Student",
     "headline": "Barcelona Metropolitan Area geographic layers",
     "introduction": "This is a space for my research, the tools I develop, and the questions that connect urban mobility, energy and security.\n",
-    "biography": "Explore my software, industry projects, academic work and publications using the pages above.",
+    "biography": "Explore my software, industry projects, and academic work using the pages above.",
     "orcid": "0009-0009-8239-4528",
     "photo": "assets/portrait.png",
     "photoAlt": "Portrait of Shuotong Su",
@@ -25,14 +25,7 @@ window.PORTFOLIO = {
       "Vehicle Cybersecurity",
       "Cybersecurity of Transportation Infrastructure Networks"
     ],
-    "experience": [
-      {
-        "period": "",
-        "title": "Master of Engineering",
-        "organization": "Jilin University",
-        "description": ""
-      }
-    ],
+    "experience": [],
     "gallery": []
   },
   "pages": {
@@ -57,63 +50,9 @@ window.PORTFOLIO = {
       "introduction": "Published work, research details and figures. Browse the collection or export a citation."
     }
   },
-  "software": [
-    {
-      "id": "project-mvp84uwo-c8j5v",
-      "title": "New project",
-      "year": 2026,
-      "status": "In progress",
-      "summary": "",
-      "description": "",
-      "role": "",
-      "tags": [],
-      "cover": "",
-      "gallery": [],
-      "demoUrl": "",
-      "embedDemo": true,
-      "codeUrl": "",
-      "websiteUrl": "",
-      "downloads": []
-    }
-  ],
-  "industry": [
-    {
-      "id": "project-mvp84qm8-s5fym",
-      "title": "New project",
-      "year": 2026,
-      "status": "In progress",
-      "summary": "",
-      "description": "",
-      "role": "",
-      "tags": [],
-      "cover": "",
-      "gallery": [],
-      "demoUrl": "",
-      "embedDemo": true,
-      "codeUrl": "",
-      "websiteUrl": "",
-      "downloads": []
-    }
-  ],
-  "academic": [
-    {
-      "id": "project-mvp84ae1-7ao2y",
-      "title": "New project",
-      "year": 2026,
-      "status": "In progress",
-      "summary": "",
-      "description": "",
-      "role": "",
-      "tags": [],
-      "cover": "",
-      "gallery": [],
-      "demoUrl": "",
-      "embedDemo": true,
-      "codeUrl": "",
-      "websiteUrl": "",
-      "downloads": []
-    }
-  ],
+  "software": [],
+  "industry": [],
+  "academic": [],
   "examples": {
     "software": [
       {
